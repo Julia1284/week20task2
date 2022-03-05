@@ -1,0 +1,26 @@
+.container {
+    margin: 20px auto;
+    background-color: bisque;
+    width: 500px;
+    min-height: 700px;
+    border: 1px solid rgb(221, 197, 91);
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.city_list {
+    text-align: center;
+}
+
+.out {
+    margin-top: 30px;
+    min-height: 500px;
+    text-align: center;
+    display: grid;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+}
